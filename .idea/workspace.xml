@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59241248-e302-4c28-afb4-aa528107f341" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pre-brandit.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/settings-page.php" afterPath="$PROJECT_DIR$/admin/settings-page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prebrandit.php" afterPath="$PROJECT_DIR$/prebrandit.php" />
-    </list>
+    <list default="true" id="59241248-e302-4c28-afb4-aa528107f341" name="Default" comment="" />
     <ignored path="prebrandit.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

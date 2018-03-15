@@ -1,9 +1,9 @@
 === Plugin Name ===
 
 Plugin Name:  PreBrandit
-Description:  Example plugin for the video tutorial series, "WordPress: Plugin Development", available at Lynda.com.
-Plugin URI:   https://profiles.wordpress.org/specialk
-Author:       Jeff Starr
+Description:  Plugin which changes the login page with brand properties
+Plugin URI:   
+Author:       Maarten von Kreijfelt
 Version:      1.0
 Text Domain:  prebrandit
 Domain Path:  /languages
